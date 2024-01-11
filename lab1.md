@@ -2,7 +2,7 @@
 `cd` with no argument navigates you to the outermost directory. <br>
 Here, `cd` takes you outside the lecture1 directory. <br>
 `cd` with no argument serves as a quick way to exit the directories you are in if you need to. 
-<br>
+<be>
 <br>
 
 ![Image](cat-no-arg.png)\
