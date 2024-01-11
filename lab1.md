@@ -12,7 +12,7 @@ If I were to write cat with no argument and then write anything in the terminal 
 
 ![Image](ls-no-arg.png)\
 `ls` with no argument tells you the directories and files within your current directory. <br>
-Here, ls prints the lecture1 directory since it is in the workspace. <be>
+Here, `ls` prints the lecture1 directory since it is in the workspace. <br>
 If there were any other directory other than lecture1 it would show them as well.
 
 
