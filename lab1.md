@@ -54,7 +54,7 @@ This is because the argument is a directory and not a printable file. <br>
 
 ![Image](cd-file.png)\
 The working directory when the command was run was the lecture1 directory. <br>
-`cd` with a file as an argument gives you an error <br>
+`cd` with a file as an argument gives you an error. <br>
 The output in the screenshot above is an error. <br>
 This is because you cannot `cd` to a file <br>
 You can only `cd` to a directory.<br>
