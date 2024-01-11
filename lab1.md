@@ -1,23 +1,23 @@
 ![Image](cd-no-arg.png)\
-`cd` with no argument navigates you to the outermost directory.
+`cd` with no argument navigates you to the outermost directory. <br>
 Here, `cd` takes you outside the lecture1 directory.
 
 
 
 ![Image](cat-no-arg.png)\
-`cat` with no argument allows you to write text in the terminal and it prints the same text.
+`cat` with no argument allows you to write text in the terminal and it prints the same text. <br>
 
 
 
 ![Image](ls-no-arg.png)\
-`ls` with no argument tells you the directories and files within your current directory.
+`ls` with no argument tells you the directories and files within your current directory. <br>
 Here, ls prints the lecture1 directory since it is in the workspace. 
 
 
 
 
 ![Image](cd-directory.png)\
-`cd` with a directory navigates you to the directory you are looking for. (The argument directory has to be within the current directory)
+`cd` with a directory navigates you to the directory you are looking for. (The argument directory has to be within the current directory) <br>
 Here, `cd` lecture1 takes you to the lecture1 directory
 
 ![Image](ls-directory.png)\
