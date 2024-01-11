@@ -31,7 +31,7 @@ Here, `cd lecture1` takes you to the lecture1 directory <br><br>
 It is important to note that the argument directory has to be within the current directory <br>
 Or else you would get a message `bash: cd: directory-name: No such file or directory` <br><br>
 At the same time, the argument directory should not be within a sub-directory of the current directory you have navigated to with cd <br>
-In the case that the argument directory is in a sub directory you would have to navigate to it in the command <br><br>
+In that case you would have to navigate to it within the command <br><br>
 So if you wanted to go to the messages directory within the lecture1 directory you would write `cd lecture1/messages/` in the terminal.<br>
 The output in the screenshot is not an error.
 
