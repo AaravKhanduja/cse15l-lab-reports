@@ -30,7 +30,7 @@ The working directory when the command was run was the root directory. <br>
 Here, `cd lecture1` takes you to the lecture1 directory <br><br>
 It is important to note that the argument directory has to be within the current directory <br>
 Or else you would get a message `bash: cd: directory-name: No such file or directory` <br><br>
-If he argument directory is within a sub-directory of the current directory you have to navigate to it within the command <br><br>
+If the argument directory is within a sub-directory of the current directory, you have to navigate to it within the command. <br><br>
 So if you wanted to go to the messages directory within the lecture1 directory you would write `cd lecture1/messages/` in the terminal.<br>
 The output in the screenshot above is not an error.
 
@@ -38,7 +38,7 @@ The output in the screenshot above is not an error.
 
 ![Image](ls-directory.png)\
 The working directory when the command was run was the root directory. <br>
-`ls` with a directory tells you the directories and files within your current directory. <br>
+`ls` with a directory tells you the directories and files within the argument directory. <br>
 So in this case `ls lecture1` tells you the directories and files within lecture1 including Hello.java, messages, and README <br>
 We can also see that the file names are in the typical green font and the directory names are in a blue font for easy comparison. <br>
 The output in the screenshot above is not an error.
