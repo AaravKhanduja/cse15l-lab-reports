@@ -1,5 +1,5 @@
 ![Image](cd-no-arg.png)\
-cd with no argument navigates you to the outermost directory.
+'cd' with no argument navigates you to the outermost directory.
 
 
 
