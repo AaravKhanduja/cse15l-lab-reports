@@ -2,8 +2,7 @@
 `cd` with no argument navigates you to the outermost directory. <br>
 Here, `cd` takes you outside the lecture1 directory. <br>
 `cd` with no argument serves as a quick way to exit the directories you are in if you need to. 
-<be>
-<br>
+
 
 ![Image](cat-no-arg.png)\
 `cat` with no argument allows you to write text in the terminal and prints the same text. <br>
@@ -13,14 +12,22 @@ If I were to write cat with no argument and then write anything in the terminal 
 
 ![Image](ls-no-arg.png)\
 `ls` with no argument tells you the directories and files within your current directory. <br>
-Here, ls prints the lecture1 directory since it is in the workspace. 
+Here, ls prints the lecture1 directory since it is in the workspace. <be>
+If there were any other directory other than lecture1 it would show them as well.
 
 
 
 
 ![Image](cd-directory.png)\
-`cd` with a directory navigates you to the directory you are looking for. (The argument directory has to be within the current directory) <br>
-Here, `cd` lecture1 takes you to the lecture1 directory
+`cd` with a directory navigates you to the directory you are looking for. <br>
+Here, `cd` lecture1 takes you to the lecture1 directory <br>
+It is important to note that the argument directory has to be within the current directory <br>
+Or else you would get a message `bash: cd: directory-name: No such file or directory` <br>
+At the same time, the argument directory should not be within a sub-directory of the current directory you have navigated to with cd <br>
+In the case, that the argument directory is in a sub directory you would have to navigate to it in the command <br>
+So if you wanted to go to the messages directory within the lecture1 directory you would write `cd lecture1/messages/` in the terminal. <br>
+
+
 
 ![Image](ls-directory.png)\
 `ls` with a directory tells you the directories and files within your current directory.
