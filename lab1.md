@@ -2,11 +2,12 @@
 `cd` with no argument navigates you to the outermost directory. <br>
 Here, `cd` takes you outside the lecture1 directory. <br>
 `cd` with no argument serves as a quick way to exit the directories you are in if you need to. 
-
+<br>
 
 
 ![Image](cat-no-arg.png)\
-`cat` with no argument allows you to write text in the terminal and it prints the same text. <br>
+`cat` with no argument allows you to write text in the terminal and prints the same text. <br>
+If I were to write cat with no argument and then write anything in the terminal say for example hello world, <br> it would print out hello world
 
 
 
