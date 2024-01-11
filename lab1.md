@@ -28,7 +28,7 @@ The output in the screenshot above is not an error.
 The working directory when the command was run was the root directory. <br>
 `cd` with a directory navigates you to the directory you are looking for. <br>
 Here, `cd lecture1` takes you to the lecture1 directory <br><br>
-It is important to note that the argument directory has to be within the current directory <br>
+It is important to note that the argument directory has to be within the working directory <br>
 Or else you would get a message `bash: cd: directory-name: No such file or directory` <br><br>
 If the argument directory is within a sub-directory of the current directory, you have to navigate to it within the command. <br><br>
 So if you wanted to go to the messages directory within the lecture1 directory you would write `cd lecture1/messages/` in the terminal.<br>
