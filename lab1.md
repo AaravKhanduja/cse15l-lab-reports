@@ -18,7 +18,7 @@ The output in the screenshot is not an error.
 The working directory when the command was run was the root directory. <br>
 `ls` with no argument tells you the directories and files within your current directory. <br>
 Here, `ls` prints the lecture1 directory since it is in the workspace. <br>
-If there were any other directories or files other than lecture1 it would show them as well.<br>
+If there were any other directories or files other than lecture1 it would show them as well. <br>
 The output in the screenshot is not an error.
 
 
@@ -76,6 +76,6 @@ The output in the screenshot is not an error.
 The working directory when the command was run was the lecture1 directory. <br>
 `cat` with a file prints out the content of the file when run. <br>
 In this case, we used `cat` with the java file Hello.java <br>
-This returns all the content in that file.
+This returns all the content in that file. <br>
 The output in the screenshot is not an error.
 
