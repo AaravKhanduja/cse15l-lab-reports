@@ -1,9 +1,11 @@
 ![Image](cd-no-arg.png)\
-cd with no argument navigates you to the outermost directory.\ 
+cd with no argument navigates you to the outermost directory.
+\ 
 
 
 ![Image](cat-no-arg.png)\
-cat with no argument allows you to write text in the terminal and it prints the same text.\
+cat with no argument allows you to write text in the terminal and it prints the same text.
+\
 
 
 ![Image](ls-no-arg.png)\
