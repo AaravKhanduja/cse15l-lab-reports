@@ -17,7 +17,7 @@ The output in the screenshot above is not an error.
 ![Image](ls-no-arg.png)\
 The working directory when the command was run was the root directory. <br>
 `ls` with no argument tells you the directories and files within your working directory. <br>
-Here, `ls` prints the lecture1 directory since it is in the root directory. <br>
+Here, `ls` prints the lecture1 directory since it is in the working directory. <br>
 If there were any other directories or files other than lecture1 it would show them as well. <br>
 The output in the screenshot above is not an error.
 
