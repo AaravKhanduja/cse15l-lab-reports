@@ -9,7 +9,7 @@ The output in the screenshot above is not an error.
 ![Image](cat-no-arg.png)\
 The working directory when the command was run was the home directory `/Users/aaravkhanduja` <br>
 `cat` with no argument allows you to write text in the terminal and prints the same text. <br>
-If I were to write cat with no argument and then write anything in the terminal say for example hello world, <br> it would print out hello world.<br>
+If I were to write `cat` with no argument and then write anything in the terminal say for example hello world, <br> it would print out hello world.<br>
 The output in the screenshot above is not an error.
 
 
@@ -17,8 +17,8 @@ The output in the screenshot above is not an error.
 ![Image](ls-no-arg.png)\
 The working directory when the command was run was the home directory `/Users/aaravkhanduja` <br>
 `ls` with no argument tells you the directories and files within the working directory. <br>
-Here, `ls` prints the lecture1 directory since it is in the working directory. <br>
-If there were any other directories or files other than lecture1 it would show them as well. <br>
+Here, `ls` prints the `lecture1` directory since it is in the working directory. <br>
+If there were any other directories or files other than `lecture1` it would show them as well. <br>
 The output in the screenshot above is not an error.
 
 
@@ -39,7 +39,7 @@ The output in the screenshot above is not an error.
 ![Image](ls-directory.png)\
 The working directory when the command was run was the home directory `/Users/aaravkhanduja` <br>
 `ls` with a directory tells you the directories and files within the argument directory. <br>
-So in this case `ls lecture1` tells you the directories and files within `lecture1` including Hello.java, messages, and README <br>
+So in this case `ls lecture1` tells you the directories and files within `lecture1` including `Hello.java`, `messages`, and `README` <br>
 We can also see that the file names are in the typical green font and the directory names are in a blue font for easy comparison. <br>
 The output in the screenshot above is not an error.
 
