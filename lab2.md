@@ -12,6 +12,6 @@ If the condition is met we save the second and fourth elements as the message an
 We then format a string and save it as "ans = ans + "\n" + user + ": " + message" and this is important.<br>
 Whenever we have another URL that passes through this method it appends the new message and user to the ans string while keeping the past history.<br>
 ![Image](Server1.png)\
-![Image](Server2.png)\<br>
-Using the above as examples we can see that the code works as expected.<br>
+![Image](Server2.png)\
+<br>Using the above as examples we can see that the code works as expected.<br>
 The ans string gets updated storing the previous chat history. <br>
