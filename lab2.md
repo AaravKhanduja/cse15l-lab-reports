@@ -15,3 +15,6 @@ Whenever we have another URL that passes through this method it appends the new 
 ![Image](Server2.png)\
 <br>Using the above as examples we can see that the code works as expected.<br>
 The ans string gets updated storing the previous chat history. <br>
+
+![Image](priv-key.png)\
+![Image](pub-key.png)\
