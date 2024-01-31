@@ -17,5 +17,14 @@ Whenever we have another URL that passes through this method it appends the new 
 The ans string gets updated storing the previous chat history. <br>
 
 ![Image](priv_key.png)\
+<br>
+The above command line shows the path to the private key.
+<br>
 ![Image](pub_key.png)\
+<br>
+The above command line shows the path to the private key.
+<br>
 ![Image](login.png)\
+<br>
+The above command line shows logging into the ssh without a password and just the key and passphrase.
+<br>
