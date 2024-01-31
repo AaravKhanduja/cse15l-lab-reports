@@ -18,3 +18,4 @@ The ans string gets updated storing the previous chat history. <br>
 
 ![Image](priv-key.png)\
 ![Image](pub-key.png)\
+![Image](login.png)\
