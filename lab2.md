@@ -16,11 +16,11 @@ Whenever we have another URL that passes through this method it appends the new 
 <br>Using the above as examples we can see that the code works as expected.<br>
 The ans string gets updated storing the previous chat history. <br>
 
-![Image](priv_key.png)\
+![Image](priv-key.png)\
 <br>
 The above command line shows the path to the private key.
 <br>
-![Image](pub_key.png)\
+![Image](pub-key.png)\
 <br>
 The above command line shows the path to the private key.
 <br>
