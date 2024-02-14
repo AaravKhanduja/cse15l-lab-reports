@@ -107,8 +107,7 @@ Example 2:
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" -exec gzip {} \;  
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp.gz	testerr.c.gz
-aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % 
-`
+aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %`
  <br>
 
 4. It could also be used to archive files matching the criteria you state<br><br>
@@ -124,8 +123,7 @@ I could arhive all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.txt" -exec tar -rvf txtfiles.tar {} \;
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c.gz
-aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % 
-`
+aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %`
 <br>  <br>
 Example 2: 
  <br>
@@ -133,7 +131,7 @@ I could arhive all `.cpp` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" -exec tar -rvf txtfiles.tar {} \;
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	testerr.c.gz
-aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % `
+aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %`
  <br>
  <br>
 For this report I used ChatGPT. Here is the prompt I used: <br><br>
