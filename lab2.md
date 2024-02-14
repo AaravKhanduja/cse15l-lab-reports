@@ -28,3 +28,5 @@ The above command line shows the path to the public key on the ieng system.
 <br>
 The above command line shows logging into the `ssh` without a password and just the key.
 <br>
+
+Learning how to work with URLs has been interesting over the last few weeks.
