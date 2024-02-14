@@ -82,7 +82,7 @@ Output: 1
  <br> <br>
 Example 2: <br>
 I could count all `.txt` files using the command below <br>
-`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l`  <br>
+`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.txt" | wc -l`  <br>
 Output: 1
   <br><br>
 4. It could also be used to zip files matching the criteria you state<br><br>
