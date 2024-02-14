@@ -20,11 +20,11 @@ The ans string gets updated storing the previous chat history. <br>
 <br>
 The above command line shows the path to the private key.
 <br>
-![Image](pub-key.png)\
+![Image](public_key_path.png)\
 <br>
 The above command line shows the path to the private key.
 <br>
-![Image](login.png)\
+![Image](ssh_no_pw_login.png)\
 <br>
 The above command line shows logging into the `ssh` without a password and just the key and passphrase.
 <br>
