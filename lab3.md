@@ -17,7 +17,7 @@ Here is the non-failure inducing input as a JUnit test<br>
   }`
 
 Here is the output <br>
-![Image](junittests.png)\
+![Image](junittest.png)\
 <br>
 
 Here is the code before making the necessary changes. <br>
