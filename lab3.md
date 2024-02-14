@@ -76,15 +76,15 @@ run1.txt	test.cpp	testerr.c`
  <br>
 Example 1: <br>
 I could count all `.cpp` files using the command below <br>
-`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l`
-       Output: `1`
+`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l` <br>
+Output: `1`
  <br> <br>
 Example 2: <br>
 I could count all `.txt` files using the command below <br>
-`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l`
+`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l` <br>
 Output: `1`
   <br><br>
-3. It could also be used to zip files matching the criteria you state<br><br>
+4. It could also be used to zip files matching the criteria you state<br><br>
 For example, with the same folder called test-folder which has a bunch of files. 
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
