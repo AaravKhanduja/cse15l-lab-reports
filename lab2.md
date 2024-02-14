@@ -26,5 +26,5 @@ The above command line shows the path to the public key on the ieng system.
 <br>
 ![Image](ssh_no_pw_login.png)\
 <br>
-The above command line shows logging into the `ssh` without a password and just the key and passphrase.
+The above command line shows logging into the `ssh` without a password and just the key.
 <br>
