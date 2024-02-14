@@ -22,7 +22,7 @@ The above command line shows the path to the private key.
 <br>
 ![Image](public_key_path.png)\
 <br>
-The above command line shows the path to the private key.
+The above command line shows the path to the public key on the ieng system.
 <br>
 ![Image](ssh_no_pw_login.png)\
 <br>
