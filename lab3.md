@@ -60,7 +60,7 @@ I could delete all `.txt` files using the command below <br>
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %`
-
+ <br> <br>
 Example 2:  <br>
 I could delete all `.c` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.c" -delete
@@ -79,7 +79,7 @@ I could count all `.cpp` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l
        1
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %` 
-
+ <br> <br>
 Example 2: <br>
 I could count all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l
@@ -99,7 +99,7 @@ Example 1:
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c.gz
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % `
- <br>
+ <br> <br>
  
 Example 2:
 <br>
@@ -126,7 +126,7 @@ aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c.gz
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % 
 `
-<br>
+<br>  <br>
 Example 2: 
  <br>
 I could arhive all `.cpp` files using the command below <br>
