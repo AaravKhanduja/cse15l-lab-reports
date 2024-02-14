@@ -104,7 +104,7 @@ aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %
  <br>
 `
 
-5. It could also be used to archive files matching the criteria you state<br>
+4. It could also be used to archive files matching the criteria you state<br>
 For example, with the same folder called test-folder which has a bunch of files. <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
