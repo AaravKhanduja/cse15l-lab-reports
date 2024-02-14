@@ -1,4 +1,4 @@
-**Part 1**
+**Part 1**<br>
 Here is the failure-inducing input as a JUnit test<br>
 `@Test
   public void testReversed2() {
