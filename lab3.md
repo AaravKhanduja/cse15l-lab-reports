@@ -76,7 +76,7 @@ run1.txt	test.cpp	testerr.c`
  <br>
 Example 1: <br>
 I could count all `.cpp` files using the command below <br>
-`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l
+`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l  <br>
        1
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %` 
  <br> <br>
