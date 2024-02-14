@@ -41,7 +41,8 @@ Here is the code after making the necessary changes. <br>
 Initially, the new array would repetitively assign each element to 0 as it would call the new array instead of updating the new array.<br>
 The corrected code effectively updates the new array and returns it which contains the same elements in reversed order. <br>
 
-**Part 2**
+**Part 2** <br>
+
 The command that I find interesting is `find`. 
  <br>
 
@@ -52,14 +53,16 @@ For example, I could have a folder called test-folder which has a bunch of files
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
-
-Example 1: I could delete all `.txt` files using the command below <br>
+ <br>
+Example 1:  <br>
+I could delete all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.txt" -delete
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %`
 
-Example 2: I could delete all `.c` files using the command below <br>
+Example 2:  <br>
+I could delete all `.c` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.c" -delete
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	 
@@ -70,13 +73,15 @@ For example, with the same folder called test-folder which has a bunch of files.
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
-
-Example 1: I could count all `.cpp` files using the command below <br>
+ <br>
+Example 1: <br>
+I could count all `.cpp` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l
        1
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %` 
 
-Example 2: I could count all `.txt` files using the command below <br>
+Example 2: <br>
+I could count all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l
        3
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %` 
@@ -88,21 +93,23 @@ file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
  <br>
 Example 1:
+ <br>
  I could zip all `.c` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.c" -exec gzip {} \;  
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c.gz
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % `
  <br>
-
+ 
 Example 2:
+<br>
  I could zip all `.cpp` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" -exec gzip {} \;  
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp.gz	testerr.c.gz
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % 
- <br>
 `
+ <br>
 
 4. It could also be used to archive files matching the criteria you state<br>
 For example, with the same folder called test-folder which has a bunch of files. <br>
@@ -112,13 +119,16 @@ run1.txt	test.cpp	testerr.c`
  <br>
 
 Example 1: 
+ <br>
 I could arhive all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.txt" -exec tar -rvf txtfiles.tar {} \;
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c.gz
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % 
 `
+<br>
 Example 2: 
+ <br>
 I could arhive all `.cpp` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" -exec tar -rvf txtfiles.tar {} \;
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
