@@ -67,7 +67,7 @@ I could delete all `.c` files using the command below <br>
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	 
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %`
-
+<br>
 2. It could also be used to count files matching the criteria you state<br><br>
 For example, with the same folder called test-folder which has a bunch of files. <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
@@ -85,7 +85,7 @@ I could count all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l
        3
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %` 
-  
+  <br>
 3. It could also be used to zip files matching the criteria you state<br><br>
 For example, with the same folder called test-folder which has a bunch of files. 
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
@@ -100,7 +100,7 @@ aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	testerr.c.gz
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % `
  <br> <br>
- 
+
 Example 2:
 <br>
  I could zip all `.cpp` files using the command below <br>
@@ -135,6 +135,6 @@ aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	testerr.c.gz
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % `
  <br>
- 
-For this report I used ChatGPT. Here is the prompt I used: <br>
+ <br>
+For this report I used ChatGPT. Here is the prompt I used: <br><br>
 `Explain the find command and give me interesting use cases.` 
