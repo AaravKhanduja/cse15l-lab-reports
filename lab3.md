@@ -47,13 +47,13 @@ The command that I find interesting is `find`.
  <br>
 
 Here are 4 interesting ways it could be used:
- <br>
+ <br><br>
 1. It could be used to delete files matching the criteria you state<br><br>
 For example, I could have a folder called test-folder which has a bunch of files. <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
- <br>
+ <br><br>
 Example 1:  <br>
 I could delete all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.txt" -delete
@@ -67,7 +67,7 @@ I could delete all `.c` files using the command below <br>
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls
 file.java	test.cpp	 
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %`
-<br>
+<br><br>
 2. It could also be used to count files matching the criteria you state<br><br>
 For example, with the same folder called test-folder which has a bunch of files. <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
@@ -85,7 +85,7 @@ I could count all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.cpp" | wc -l
        3
 aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder %` 
-  <br>
+  <br><br>
 3. It could also be used to zip files matching the criteria you state<br><br>
 For example, with the same folder called test-folder which has a bunch of files. 
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
