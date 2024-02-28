@@ -50,7 +50,7 @@ Here are 4 interesting ways it could be used:
  <br><br>
 1. It could be used to delete files matching the criteria you state<br><br>
 For example, I could have a folder called test-folder which has a bunch of files. <br>
-`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
+`aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls <br>
 file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
  <br><br>
