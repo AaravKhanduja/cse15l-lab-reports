@@ -18,7 +18,7 @@ Keys pressed:
   `left-arrow` `left-arrow` `left-arrow` `left-arrow` `left-arrow` `left-arrow` `left-arrow` <br>
   <delete><2><esc> <br>
   <:w> <:qa!> <br>
-The left arrowns and down simply moved the cursor. `a` shifted the mode to append from where I could change index1 to index2 using the `delete` and `2` keys. In order to save the changes in the file I used the command `:w` and then to exit vim I used the command `:qa!`.<br>
+The left arrows and down simply moved the cursor. `a` shifted the mode to append from where I could change index1 to index2 using the `delete` and `2` keys. In order to save the changes in the file I used the command `:w` and then to exit `vim` I used the command `:qa!`.<br>
 
 In order to run the tests again I used <up-arrow> to get the same commands to run JUnit tests. You can see from the screenshot below that they ran successfully. <br>
 ![Image](tests_passed.png)\
