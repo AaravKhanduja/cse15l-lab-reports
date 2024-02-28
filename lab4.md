@@ -10,7 +10,7 @@ I then ran the JUnit tests, 1 of which failed as you can see below. using the co
 
 <br>
 In order to fix the ListExamples.java directly from the command line I used vim. <br>
-I used the command `vim ListExamples.java`<br>
+I used the command `vim ListExamples.java` <br>
 I then used the following keystrokes: <br>
 Keys pressed: 
 `down-arrow` `down-arrow` `down-arrow` `down-arrow` `down-arrow` `down-arrow` `down-arrow` <br>
