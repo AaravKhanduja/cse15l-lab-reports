@@ -13,7 +13,7 @@ In order to fix the ListExamples.java directly from the command line I used vim.
 I used the command `vim ListExamples.java`<br>
 I then used the following keystrokes: <br>
 Keys pressed: 
-<down-arrow> <down-arrow> <down-arrow> <down-arrow> <down-arrow> <down-arrow> <down-arrow> <br>
+`down-arrow` `down-arrow` <down-arrow> <down-arrow> <down-arrow> <down-arrow> <down-arrow> <br>
   <a> <br>
   <left-arrow> <left-arrow> <left-arrow> <left-arrow> <left-arrow> <left-arrow> <left-arrow> <br>
   <delete><2><esc> <br>
