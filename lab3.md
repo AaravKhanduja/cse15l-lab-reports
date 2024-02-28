@@ -73,7 +73,7 @@ For example, with the same folder called test-folder which has a bunch of files.
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
- <br>
+ <br> <br>
  
 Example 1: <br>
 I could count all `.cpp` files using the command below <br>
@@ -90,7 +90,7 @@ For example, with the same folder called test-folder which has a bunch of files.
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
- <br>
+ <br> <br>
 Example 1:
  <br>
  I could zip all `.c` files using the command below <br>
@@ -114,7 +114,7 @@ For example, with the same folder called test-folder which has a bunch of files.
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
 run1.txt	test.cpp	testerr.c`
- <br>
+ <br> <br>
 
 Example 1: 
  <br>
