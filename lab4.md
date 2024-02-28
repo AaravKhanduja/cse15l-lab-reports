@@ -1,6 +1,6 @@
 ![Image](ssh_git.png)\
 <br>
-From the screenshot above, it can be inferred that I have logged into ieng6 using `ssh akhanduja@ieng6.ucsd.edu` and do not need a password as my keys are setup. 
+From the screenshot above, it can be inferred that I have logged into ieng6 using `ssh akhanduja@ieng6.ucsd.edu` and do not need a password as my keys have been set up already. 
 I cloned the repository using `git clone git@github.com:AaravKhanduja/lab7.git` which securely clones it on the ieng system.
 
 
