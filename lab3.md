@@ -85,7 +85,7 @@ I could count all `.txt` files using the command below <br>
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % find . -name "*.txt" | wc -l`  <br>
 Output: 1
   <br><br>
-4. It could also be used to zip files matching the criteria you state<br><br>
+3. It could also be used to zip files matching the criteria you state<br><br>
 For example, with the same folder called test-folder which has a bunch of files. 
 `aaravkhanduja@Aaravs-MacBook-Pro-2 test-folder % ls 
 file.java	run2.txt	tester.txt
