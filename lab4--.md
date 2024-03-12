@@ -3,6 +3,13 @@
 From the screenshot above, it can be inferred that I have logged into ieng6 using `ssh akhanduja@ieng6.ucsd.edu` and do not need a password as my keys have been set up already. 
 I cloned the repository using `git clone <Ctrl+V>` which securely clones it on the ieng system.
 
+`
+  <down> <down> <down> <down> <down> <down> <down> <down> 
+  <a> 
+  <left> <left> <left> <left> <left> <left> <left> 
+  <Delete> 2 <Esc> 
+  :w :qa! `
+<br>
 
 I then ran the JUnit tests, 1 of which failed as you can see below. using the command `javac -cp <Ctrl+V>` and `java -cp <Ctrl+V>` 
 ![Image](tests_failed.png)\
