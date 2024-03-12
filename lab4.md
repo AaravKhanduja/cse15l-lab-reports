@@ -1,7 +1,7 @@
 ![Image](ssh_git.png)
 <br>
 From the screenshot above, it can be inferred that I have logged into ieng6 using `ssh akhanduja@ieng6.ucsd.edu` and do not need a password as my keys have been set up already. 
-I cloned the repository using `git clone git@github.com:AaravKhanduja/lab7.git` which securely clones it on the ieng system.
+I cloned the repository using `git clone <Ctrl+V>` which securely clones it on the ieng system.
 
 
 I then ran the JUnit tests, 1 of which failed as you can see below. using the command `javac -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" *.java` and `java -cp ".:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar" org.junit.runner.JUnitCore ListExamplesTests`
