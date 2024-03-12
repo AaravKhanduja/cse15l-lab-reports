@@ -5,7 +5,7 @@ I cloned the repository using `git clone <Ctrl+V>` which securely clones it on t
 
 
 I then ran the JUnit tests, 1 of which failed as you can see below. using the command `javac -cp <Ctrl+V>` and `java -cp <Ctrl+V>` 
-![Image](tests_failed.png)
+![Image](tests_failed.png)/
 <br>
 In order to fix the ListExamples.java directly from the command line I used vim. <br>
 I used the command ` vim ListExamples.java ` <br> 
