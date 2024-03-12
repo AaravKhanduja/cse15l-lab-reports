@@ -28,7 +28,7 @@ You can see from the screenshot above that they ran successfully.
 <br>
 Finally, to commit and push the changes I ran the following commands in order: <br>
 `git add .` <br>
-`git commit -m "changes made" `<br>
+`git commit -m "changes made." `<br>
 `git push`<br>
 The screenshots below shows the same 
 ![Image](step9-1.png)
