@@ -4,22 +4,22 @@ From the screenshot above, it can be inferred that I have logged into ieng6 usin
 I cloned the repository using `git clone <Ctrl+V>` which securely clones it on the ieng system.
 
 
-I then ran the JUnit tests, 1 of which failed as you can see below. using the command `javac -cp <Ctrl+V> and `java -cp <Ctrl+V>`
-<br>
+I then ran the JUnit tests, 1 of which failed as you can see below. using the command `javac -cp <Ctrl+V>` and `java -cp <Ctrl+V>` 
 ![Image](tests_failed.png)
-
 <br>
 In order to fix the ListExamples.java directly from the command line I used vim. <br>
-I used the command `vim ListExamples.java` <br> 
-I then used the following keystrokes: 
+I used the command ` vim ListExamples.java ` <br> 
+I then used the following keystrokes: <br> 
+
+`
+ <down> <down> <down> <down> <down> <down> <down> <down> 
+  <a> 
+  <left> <left> <left> <left> <left> <left> <left> 
+  <Delete> 2 <Esc> 
+  :w :qa! `
 <br>
-Keys pressed: <br> `
- <down> <down> <down> <down> <down> <down> <down> <down> <br>
-  <a> <br>
-  <left> <left> <left> <left> <left> <left> <left> <br>
-  <Delete> 2 <Esc> <br>
-  :w :qa! <br>
-The left arrows and down simply moved the cursor. 'a' shifted the mode to append from where I could change index1 to index2 using the `delete` and `2` keys. In order to save the changes in the file I used the command `:w` and then to exit `vim` I used the command `:qa!`.<br>
+
+The `<left>` and `<down>` simply moved the cursor. `a` shifted the mode to append from where I could change `index1` to `index2` using the `<Delete>` and `2` keys. In order to save the changes in the file I used the command `:w` and then to exit `vim` I used the command `:qa!`.<br>
 
 ![Image](tests-passed.png)
 <br>
