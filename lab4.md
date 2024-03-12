@@ -11,14 +11,15 @@ I then ran the JUnit tests, 1 of which failed as you can see below. using the co
 <br>
 In order to fix the ListExamples.java directly from the command line I used vim. <br>
 I used the command `vim ListExamples.java` <br> 
-I then used the following keystrokes: <br>
-Keys pressed: 
-` \<down> <down> <down> <down> <down> <down> <down> <down> <br>
+I then used the following keystrokes: 
+<br>
+Keys pressed: <br> `
+ <down> <down> <down> <down> <down> <down> <down> <down> <br>
   <a> <br>
   <left> <left> <left> <left> <left> <left> <left> <br>
   <Delete> 2 <Esc> <br>
-  :w :qa! <br>)`
-\The left arrows and down simply moved the cursor. 'a' shifted the mode to append from where I could change index1 to index2 using the `delete` and `2` keys. In order to save the changes in the file I used the command `:w` and then to exit `vim` I used the command `:qa!`.<br>
+  :w :qa! <br>
+The left arrows and down simply moved the cursor. 'a' shifted the mode to append from where I could change index1 to index2 using the `delete` and `2` keys. In order to save the changes in the file I used the command `:w` and then to exit `vim` I used the command `:qa!`.<br>
 
 ![Image](tests-passed.png)
 <br>
