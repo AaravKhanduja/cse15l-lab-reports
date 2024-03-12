@@ -12,7 +12,7 @@ I used the command ` vim ListExamples.java ` <br>
 I then used the following keystrokes: <br> 
 
 `
- <down> <down> <down> <down> <down> <down> <down> <down> 
+  <down> <down> <down> <down> <down> <down> <down> <down> 
   <a> 
   <left> <left> <left> <left> <left> <left> <left> 
   <Delete> 2 <Esc> 
