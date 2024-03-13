@@ -11,7 +11,7 @@ Student: <img width="1086" alt="Screenshot 2024-03-12 at 8 28 07 PM" src="http
 
 TA: the bug is clearly line 10. The for loop condition should be `i <= result` instead of `i < result`. This will fix the bug and so you will see everything up till 8 printed.
 
-Maintain the directory structure 
+Maintain the directory structure <br>
 `-test-folder` <br>
 ` -script.sh`<br>
 ` -main.java`
