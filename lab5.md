@@ -21,6 +21,6 @@ Maintain the directory structure <br>
 
 **Part 2** <br>
 
-I used to use Github a lot but never really understood the ssh when I made repositories. This became pretty clear to me by the second half of the quarter. <br>
-Also learning how to debug was pretty good especially because I always just used the VScode extension but never knew how to run Junit through the command line. <br>
-Finally, I really liked working as a pair in labs. My partner and I both learned how to review each other's code which is something I feel like I will be doing if I choose to work in software development. 
+I always used Github but never really understood ssh when I cloned repositories before this class. This became pretty clear to me by the second half of the quarter. <br>
+Also learning how to debug was helpful. Before this class, I'd only use the VScode extension but never knew how to run Junit through the command line. <br>
+Finally, I really liked working in pairs during labs. My partner and I both learned how to review each other's code which is something I expect to be doing when I work in software development. 
