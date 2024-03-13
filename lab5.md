@@ -15,9 +15,9 @@ Student: The code seems correct now thanks,<img width="1298" alt="Screenshot 202
 
 
 Maintain the directory structure <br>
-`-test-folder/` <br>
-` -script.sh`<br>
-` -main.java`
+`-test-folder/
+ -script.sh
+ -main.java`
 
 **Part 2** <br>
 
