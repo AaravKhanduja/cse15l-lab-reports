@@ -1,1 +1,23 @@
+**Part 1**<br>
+Student: Hey, in the code below I used the command `bash script.sh` by my logic, the variable result should be 4 and everything up till 4 including 4 should be printed. However, instead of 0, 1, 2, 3, 4 only 0, 1, 2, 3 is printed. I am guessing it has something to do with the for-loop. 
 
+<img width="1293" alt="Screenshot 2024-03-12 at 8 26 13 PM" src="https://github.com/AaravKhanduja/cse15l-lab-reports/assets/142117840/1818b3b2-8e16-4d94-b5d7-b48062a6404d">
+
+TA:
+Hey, try using 2 other numbers like 1 and 7 and see if everything is printed up till 7 or 8. 
+
+Student: <img width="1086" alt="Screenshot 2024-03-12 at 8 28 07 PM" src="https://github.com/AaravKhanduja/cse15l-lab-reports/assets/142117840/b82f78c5-c01e-4884-99ef-4a4227be59c8">
+
+
+TA: the bug is clearly line 10. The for loop condition should be `i <= result` instead of `i < result`. This will fix the bug and so you will see everything up till 8 printed.
+
+Maintain the directory structure 
+`-test-folder` <br>
+` -script.sh`<br>
+` -main.java`
+
+**Part 2** <br>
+
+I used to use Github a lot but never really understood the ssh when I made repositories. This became pretty clear to me by the second half of the quarter. <br>
+Also learning how to debug was pretty good especially because I always just used the VScode extension but never knew how to run Junit through the command line. <br>
+Finally, I really liked working as a pair in labs. My partner and I both learned how to review each other's code which is something I feel like I will be doing if I choose to work in software development. 
